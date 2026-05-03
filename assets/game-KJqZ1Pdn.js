@@ -1,4 +1,4 @@
-import{w as i,p as t}from"./chunk-EPOLDU6W-DsmpVS8w.js";import{H as o,e as n,F as a}from"./components-BJZaDGBc.js";const m=i(function({loaderData:e}){return t.jsxs(t.Fragment,{children:[t.jsxs("head",{children:[t.jsx(o,{pageName:e.name}),t.jsx("style",{dangerouslySetInnerHTML:{__html:`
+import{w as i,p as t}from"./chunk-EPOLDU6W-B-Wt0mhb.js";import{H as o,f as n,F as a}from"./components-BOF_fwe0.js";const m=i(function({loaderData:e}){return t.jsxs(t.Fragment,{children:[t.jsxs("head",{children:[t.jsx(o,{pageName:e.name}),t.jsx("style",{dangerouslySetInnerHTML:{__html:`
                        .pageinfo{
                        margin-top: -1230px;
                        padding-top: 1450px;

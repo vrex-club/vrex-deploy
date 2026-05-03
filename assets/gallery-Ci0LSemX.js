@@ -1,4 +1,4 @@
-import{w as a,p as t}from"./chunk-EPOLDU6W-DsmpVS8w.js";import{H as i,e as o,t as r,f as p,F as s}from"./components-BJZaDGBc.js";const g=a(function({loaderData:e}){return t.jsxs(t.Fragment,{children:[t.jsxs("head",{children:[t.jsx(i,{pageName:"Галерея"}),t.jsx("style",{children:`body{
+import{w as a,p as t}from"./chunk-EPOLDU6W-B-Wt0mhb.js";import{H as i,f as o,t as r,d as p,F as s}from"./components-BOF_fwe0.js";const g=a(function({loaderData:e}){return t.jsxs(t.Fragment,{children:[t.jsxs("head",{children:[t.jsx(i,{pageName:"Галерея"}),t.jsx("style",{children:`body{
              width: 100%;
              background: url(../img/background-gallery.png);
              background-position: 0px 0px;
